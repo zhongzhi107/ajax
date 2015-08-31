@@ -1,5 +1,5 @@
 {
-  "name": "component-ajax",
+  "name": "ajax",
   "description": "Standalone AJAX library inspired by jQuery/zepto",
   "version": "0.0.2",
   "keywords": [],
