@@ -1,4 +1,4 @@
-ajax
+Ajax
 ====
 
 Standalone AJAX library inspired by jQuery/zepto
